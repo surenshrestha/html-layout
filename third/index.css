@@ -1,0 +1,57 @@
+ 
+  
+  body
+   {
+    background-color:whitesmoke;
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+  }
+  .week-1{
+      box-sizing: border-box;
+      padding:10px;
+      background-color:plum;
+      width:100%;
+    
+  }
+
+  .week-2{
+    box-sizing: border-box;
+    padding:80px;
+    background-color:whitesmoke;
+    width:100%;
+     }
+  .week-1-day {
+      height:60px;
+      width:60px;
+      background-color: red;
+
+    }
+
+.week-3{
+    box-sizing: border-box;
+    padding:40px;
+    background-color:greenyellow;
+    width:100%;
+    
+}
+.week-4{
+    box-sizing: border-box;
+    padding:40px;
+    background-color:goldenrod;
+    width:100%;
+}
+.week-5{
+    box-sizing: border-box;
+    padding:40px;
+    background-color:burlywood;
+    width:100%;
+    
+}
+.week-6{
+    box-sizing: border-box;
+    padding:40px;
+    background-color:blueviolet;
+    width:100%;
+
+}
